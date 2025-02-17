@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked bug in HTML/JavaScript.  A div element is hidden using JavaScript when a button is clicked, but there's no mechanism to make it reappear. This can lead to unintended behavior, and this repo provides a clear example of the problem and its solution.
